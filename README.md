@@ -1,1 +1,2 @@
 # Go-Image-Manipulation
+This is a small program to modify images and save them to disk. Currently, the program is fully parallelized and works best on batched images. I will like to at a GUI system in the future and expand the functionality to take differing file types. If possible, there should be the option to write a custom evaluable expression for the image's RGB values.
