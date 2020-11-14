@@ -2,7 +2,7 @@ package effects
 
 import (
 	"image/color"
-	mathutil "img/math"
+	"img/mathutil"
 )
 
 // Greyscale is a modification function. It simply chnages the values of the pixal so that it is greyscale
